@@ -43,7 +43,7 @@ data:
 Execute the command at terminal 		`kubectl apply -f secrets.yaml`
 <br /><br />
 Check the entity:<br />
-`kubectl get secrets`
+`kubectl get secrets` <br />
  ![Image](kubectl-get-secrets.jpg)
 <br /><br />
 (Password is base64 for my-super-secret-password)<br /><br />
